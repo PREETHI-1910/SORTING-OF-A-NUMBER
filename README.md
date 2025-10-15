@@ -21,7 +21,7 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 
 ## Program (Ascending order)
 
-```asm ORG 0000H
+```asm ORG 0000H 
 LOOP1:MOV R0,#40H
 MOV R6,30H
 DEC R6
